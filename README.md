@@ -1,2 +1,0 @@
-# ossbros
-OpenSourceSoftwareBros
